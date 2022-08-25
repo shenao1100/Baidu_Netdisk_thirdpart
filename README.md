@@ -65,6 +65,6 @@
 
 ---
 
-##赞助我
+## 赞助我
 
-<a href="https://afdian.net/@BDNDM4">穷到弃坑.jpg</a>
+<a href="https://afdian.net/@BDNDM4">穷死了</a>
