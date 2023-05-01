@@ -52,5 +52,8 @@
 
 <a href="https://afdian.net/@BDNDM4">穷死了</a>
 
-## 联系dsxbmotw（不是创作者）
+## 联系作者
+<ntgtech20060605@gmail.com>
+
+## 联系dsxbmotw（不是作者）
 <dsxbmotw@dsxbmotw.cf>
