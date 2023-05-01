@@ -1397,12 +1397,12 @@ class BaiDuCloud:
         }
         result = NTG_base.get(url, header, '', '')['text']
         self.blocklist = re.search(r'blockList=\'.*\]\'', str(result))
-        self.blocklist = self.blocklist.group(0)
-        if not self.blocklist:
-            return False
-        else:
+        if self.blocklist is not None:
+            self.blocklist = self.blocklist.group(0)
             self.blocklist = self.blocklist.replace('blockList=\'[\"', '').replace('\"]\'', '')
             return self.blocklist
+        else:
+            return False
     
     def get_uploadID(self, ToPath, name):
         Path = quote(ToPath + name).replace('/', '%2F')
