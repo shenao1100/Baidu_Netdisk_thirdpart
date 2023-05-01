@@ -17,27 +17,10 @@
 
 - Windows10
 
-## 需要的python库 (一大堆)
+## 安装包
+在cmd中 输入 pip install -r requirements.txt 即可
+（requirements.txt在code文件夹中，你需要cd到code文件夹下才可以运行）
 
-- json
-- random
-- requests
-- time
-- os
-- urllib
-- threading
-- subprocess
-- win10toast
-- base64
-- hashlib
-- re
-- requests_toolbelt.multipart
-- pyperclip
-- tkinter
-- ast
-- qrcode
-- pillow
-- io
 
 ## 运行
 
@@ -68,3 +51,6 @@
 ## 赞助我
 
 <a href="https://afdian.net/@BDNDM4">穷死了</a>
+
+## 联系dsxbmotw（不是创作者）
+<dsxbmotw@dsxbmotw.cf>
