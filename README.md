@@ -19,12 +19,12 @@
 
 ## 安装包
 在cmd中 输入 pip install -r requirements.txt 即可
-（requirements.txt在code文件夹中，你需要cd到code文件夹下才可以运行）
+（requirements.txt在code文件夹中，你需要cd到code目录下才可以运行）
 
 
 ## 运行
 
-下载完成所需库之后在根目录启动cmd，输入 `python entry.py` 即可
+下载完成所需库之后在code目录启动cmd，输入 `python main.py` 即可
 
 ---
 
